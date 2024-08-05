@@ -26,10 +26,5 @@ pipeline {
                 // Add deployment steps here, if any
             }
         }
-#        stage('Hello') {
- #           steps {
-  #              echo 'Hello, World!'
-   #         }
-    #    }
     }
 }
